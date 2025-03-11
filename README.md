@@ -17,21 +17,26 @@ Entertainment Hub is a React JS-based website that allows users to explore and d
 - **Search**: Search for any movie by title.
 - **Sort**: Sort movies by popularity, rating, or release date.
 - **Filter**: Filter movies by available genres.
-- **Description**: Read a short description about each movie.
+- **Movie Description**: Read a short description about each movie.
 - **API**: TMDB API with endpoints `/discover`, `/genre`, and `/search`.
 
 ### 🎵 Music Hub
 - **Default View**: Displays the most popular songs.
 - **Search**: Search for any song, artist, or album.
 - **Preview**: Listen to a 30-second preview of the song.
-- **External Link**: Redirect to Apple Music for more details.
+- **External Links**: 
+  - Song name redirects to Apple Music for more details.
+  - Artist name redirects to Apple Music for more details.
+  - Album name redirects to Apple Music for more details.
 - **API**: iTunes API with endpoints `/topsongs` and `/search`.
 
 ### 📚 Books Hub
 - **Default View**: Displays the most popular books.
 - **Search**: Search for any book or author.
 - **Filter**: Filter books by available genres.
-- **External Link**: Redirect to Open Library for more details.
+- **External Links**:
+  - Book name redirects to Open Library for more details.
+  - Author name redirects to Open Library for more details.
 - **API**: Open Library API with endpoints `/trending`, `/subjects`, and `/search`.
 
 ## 🛠️ Technologies Used
