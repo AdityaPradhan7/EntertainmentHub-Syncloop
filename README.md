@@ -37,9 +37,10 @@ Entertainment Hub is a React JS-based website that allows users to explore and d
 ## 🛠️ Technologies Used
 
 - **Frontend**: React JS
-- **Routing**: React Router
-- **State Management**: React Hooks
+  - **Routing**: React Router
+  - **State Management**: `useState` Hook, `useEffect` Hook
 - **Dynamic Background**: Granim.js
 - **API Management**: Syncloop Platform
 - **APIs**: TMDB API, iTunes API, Open Library API
-- **Styling**: CSS (or any other library/framework used)
+- **Styling**: CSS
+- **HTTP Client**: Axios
