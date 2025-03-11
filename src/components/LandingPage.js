@@ -11,7 +11,6 @@ const LandingPage = () => {
         <Link to="/movies" className="nav-link">Movies Hub</Link>
         <Link to="/music" className="nav-link">Music Hub</Link>
         <Link to="/books" className="nav-link">Books Hub</Link>
-        {/* <Link to="/videos" className="nav-link">Videos Hub</Link> */}
       </div>
     </div>
   );
